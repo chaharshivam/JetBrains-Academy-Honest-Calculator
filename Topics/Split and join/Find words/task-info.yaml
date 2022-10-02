@@ -1,0 +1,28 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6977#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 7. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    First ladies rule the State and state the rule: ladies first
+    Correct output:
+    ladies_ladies
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 1, in <module>
+        n = int(input())
+    ValueError: invalid literal for int() with base 10: 'First ladies rule the State and state the rule: ladies first'
+  time: Sat, 01 Oct 2022 19:51:16 UTC
+record: -1
